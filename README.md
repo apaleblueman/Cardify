@@ -1,6 +1,6 @@
 # Cardify
 from notes to review flashcards - instantly!
-![1](./14.png)
-![1](./15.png)
-![1](./16.png)
-![1](./17.png)
+![1](./1-1.png)
+![1](./2-1.png)
+![1](./3-1.png)
+![1](./4-1.png)
