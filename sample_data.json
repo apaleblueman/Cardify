@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What color is the sky?",
+        "answer": "The sky is blue."
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "The capital of France is Paris."
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "answer": "A spider has eight legs."
+    },
+    {
+        "question": "What is the biggest planet in our solar system?",
+        "answer": "The biggest planet is Jupiter."
+    },
+    {
+        "question": "What animal is known as the king of the jungle?",
+        "answer": "The lion is known as the king of the jungle."
+    },
+    {
+        "question": "What do cows give us?",
+        "answer": "Cows give us milk."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "answer": "2 + 2 equals 4."
+    },
+    {
+        "question": "What do we use to write on paper?",
+        "answer": "We use a pencil or pen to write on paper."
+    },
+    {
+        "question": "How many continents are there?",
+        "answer": "There are seven continents."
+    },
+    {
+        "question": "What is the name of the bear in the forest?",
+        "answer": "The bear is often called a 'brown bear' or 'grizzly bear'."
+    }
+]
